@@ -1,0 +1,1 @@
+var foundationRoutes = [{"name":"projects","url":"/projects","title":"Projects","controller":"ProjectsController","path":"templates/projects.html"},{"name":"home","url":"/","controller":"HomeController","path":"templates/home.html"}]; 
